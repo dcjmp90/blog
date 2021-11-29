@@ -5,7 +5,7 @@ background: 'https://i.ibb.co/Qp4d0G1/PXL-20210601-193421037-PANO-2.jpg'
 
 <!-- Page Header -->
 {% if page.background %}
-<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl }}')">
   {% else %}
   <header class="masthead">
     {% endif %}
