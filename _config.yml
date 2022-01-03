@@ -30,7 +30,8 @@ github_username:  dcjmp90
 instagram_username: perry.jon.m
 
 # Build settings
-theme: jekyll-theme-clean-blog
+#theme: jekyll-theme-clean-blog
+remote_theme: jekyll-theme-clean-blog
 markdown:           kramdown
 paginate:           5
 paginate_path:      "/posts/page:num/"
