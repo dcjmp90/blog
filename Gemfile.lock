@@ -69,12 +69,12 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  jekyll (~> 4.2.1)
-  jekyll-feed (~> 0.12)
+  jekyll
+  jekyll-feed
   jekyll-paginate
   jekyll-sitemap
   jekyll-theme-clean-blog
-  tzinfo (~> 1.2)
+  tzinfo
   tzinfo-data
   wdm (~> 0.1.1)
 
